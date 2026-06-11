@@ -1,0 +1,6 @@
+{
+  "name": "Client Lead CRM",
+  "description": "A secure Client Lead Management System (Mini CRM) featuring a public brand website contact form and an interactive CRM admin dashboard for lead pipeline management, analytics, status progression, and call notes tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
